@@ -15,7 +15,7 @@ In the mining industry, equipment failure is not just an inconvenience—it's a 
 By analyzing operational metrics like torque, temperature, and rotational speed, our model predicts potential failures, enabling engineers to perform maintenance proactively rather than reactively.
 
 > **Detailed Analysis:** For a comprehensive breakdown of the theoretical framework, mathematical models, and exploratory data analysis, please refer to the [Project Documentation](https://drive.google.com/file/d/1GeIWA-GeZizUaME6hEJM_gGgcA1KGhCm/view?usp=sharing).
-> ###  **Try the Live Demo:** [Mining Failure Predictor · Streamlit](https://mine-machinery-failure-prediction.streamlit.app/)
+> ###  **Try the Live Demo:** [Mining Failure Predictor · Streamlit](https://mine-machinary-failure.streamlit.app/)
 
 ---
 

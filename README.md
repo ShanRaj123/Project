@@ -123,10 +123,7 @@ streamlit run app.py
 
 ---
 
-## Author
 
-**Achyant Shrivastava**
-*Department of Mining Engineering, IIT (BHU), Varanasi*
 
 ---
 

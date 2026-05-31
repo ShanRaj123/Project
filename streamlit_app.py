@@ -81,4 +81,4 @@ if st.button("Show Model Feature Importance"):
     ax.set_title("XGBoost Global Feature Importance")
     st.pyplot(fig)
 
-st.markdown("<hr><span style='color: #FFD600;'> Mining ML Project by Achyant Shrivastava©️ 2025</span>", unsafe_allow_html=True)
+st.markdown("<hr><span style='color: #FFD600;'> Mining ML Project by Shan Raj / Abhay Singh©️ 2026</span>", unsafe_allow_html=True)

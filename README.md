@@ -80,7 +80,7 @@ We achieved state-of-the-art results, with **XGBoost** slightly outperforming Ra
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/mining-predictive-maintenance.git](https://github.com/yourusername/mining-predictive-maintenance.git)
+git clone [https://github.com/yourusername/mining-predictive-maintenance.git](https://github.com/ShanRaj123/Project)
 cd mining-predictive-maintenance
 ```
 ### 2. Install Dependencies

@@ -14,7 +14,7 @@ In the mining industry, equipment failure is not just an inconvenience—it's a 
 
 By analyzing operational metrics like torque, temperature, and rotational speed, our model predicts potential failures, enabling engineers to perform maintenance proactively rather than reactively.
 
-> **Detailed Analysis:** For a comprehensive breakdown of the theoretical framework, mathematical models, and exploratory data analysis, please refer to the [Project Documentation](https://drive.google.com/file/d/1GeIWA-GeZizUaME6hEJM_gGgcA1KGhCm/view?usp=sharing).
+
 > ###  **Try the Live Demo:** [Mining Failure Predictor · Streamlit](https://mine-machinary-failure.streamlit.app/)
 
 ---
@@ -73,10 +73,6 @@ We achieved state-of-the-art results, with **XGBoost** slightly outperforming Ra
 | **Recall** | 0.75 | 0.57 |
 | **F1-Score** | **0.82** | 0.71 |
 
-### Detailed Evaluation
-While the table above highlights the key performance indicators, the nuances of the model's performance—including confusion matrices, error analysis on false negatives, and feature importance rank plotting—are critical for understanding the model's reliability in a mining environment.
-
- --> **[Click here to view the full Evaluation & Error Analysis in the Documentation](https://drive.google.com/file/d/1GeIWA-GeZizUaME6hEJM_gGgcA1KGhCm/view?usp=sharing)**
 
 ---
 

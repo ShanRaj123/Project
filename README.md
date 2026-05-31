@@ -125,6 +125,4 @@ streamlit run app.py
 
 
 
----
 
-*“Predicting the future is hard, but preventing a failure is smart.”*
